@@ -1,12 +1,10 @@
 .venv/
-.firecrawl/
 __pycache__/
-data/
-data-*/
-*.sqlite3*
+.code-review-graph/
+*.sqlite3-wal
+*.sqlite3-shm
 .env
 .env.*
 !.env.example
 .DS_Store
 **/browser-profile/
-**/pages/

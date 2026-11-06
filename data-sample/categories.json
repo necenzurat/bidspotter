@@ -1,0 +1,593 @@
+[
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/agricultural-equipment/attachments",
+    "name": "attachments",
+    "primary_category": "agricultural equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/agricultural-equipment/forage-and-hay",
+    "name": "forage and hay",
+    "primary_category": "agricultural equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/agricultural-equipment/ground-care",
+    "name": "ground care",
+    "primary_category": "agricultural equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/agricultural-equipment/harvesting",
+    "name": "harvesting",
+    "primary_category": "agricultural equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/agricultural-equipment/livestock-and-livestock-handling",
+    "name": "livestock and livestock handling",
+    "primary_category": "agricultural equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/agricultural-equipment/planting-and-sowing",
+    "name": "planting and sowing",
+    "primary_category": "agricultural equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/agricultural-equipment/spreaders-and-sprayers",
+    "name": "spreaders and sprayers",
+    "primary_category": "agricultural equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/agricultural-equipment/tillage",
+    "name": "tillage",
+    "primary_category": "agricultural equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/agricultural-equipment/tractors",
+    "name": "tractors",
+    "primary_category": "agricultural equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/automotive-and-vehicles/4wd-vehicles",
+    "name": "4wd vehicles",
+    "primary_category": "automotive and vehicles"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/automotive-and-vehicles/auto-parts-and-accessories",
+    "name": "auto parts and accessories",
+    "primary_category": "automotive and vehicles"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/automotive-and-vehicles/aviation-and-marine",
+    "name": "aviation and marine",
+    "primary_category": "automotive and vehicles"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/automotive-and-vehicles/bus-and-coaches",
+    "name": "bus and coaches",
+    "primary_category": "automotive and vehicles"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/automotive-and-vehicles/cars",
+    "name": "cars",
+    "primary_category": "automotive and vehicles"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/automotive-and-vehicles/classic-cars",
+    "name": "classic cars",
+    "primary_category": "automotive and vehicles"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/automotive-and-vehicles/motorbikes",
+    "name": "motorbikes",
+    "primary_category": "automotive and vehicles"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/automotive-and-vehicles/trucks-and-trailers",
+    "name": "trucks and trailers",
+    "primary_category": "automotive and vehicles"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/automotive-and-vehicles/vans-and-commercial-vehicles",
+    "name": "vans and commercial vehicles",
+    "primary_category": "automotive and vehicles"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/bathroom",
+    "name": "bathroom",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/bedroom",
+    "name": "bedroom",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/beds",
+    "name": "beds",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/bicycle",
+    "name": "bicycle",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/chairs",
+    "name": "chairs",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/children-and-baby-products",
+    "name": "children and baby products",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/fashion-and-accessories",
+    "name": "fashion and accessories",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/fitness-and-sports-equipment",
+    "name": "fitness and sports equipment",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/garden-and-outdoor",
+    "name": "garden and outdoor",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/grocery-products-and-consumables",
+    "name": "grocery products and consumables",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/home-improvements",
+    "name": "home improvements",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/homewares",
+    "name": "homewares",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/jewellery-and-watches",
+    "name": "jewellery and watches",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/kitchen",
+    "name": "kitchen",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/luggage",
+    "name": "luggage",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/office-furniture-and-supplies",
+    "name": "office furniture and supplies",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/perfume-and-cosmetics",
+    "name": "perfume and cosmetics",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/pet-products",
+    "name": "pet products",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/seasonal-products",
+    "name": "seasonal products",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/tables",
+    "name": "tables",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/tools",
+    "name": "tools",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/toys",
+    "name": "toys",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/consumer-goods/wines-and-spirits",
+    "name": "wines and spirits",
+    "primary_category": "consumer goods"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/food-and-beverage-equipment/cip-systems",
+    "name": "cip systems",
+    "primary_category": "food and beverage equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/food-and-beverage-equipment/complete-plants",
+    "name": "complete plants",
+    "primary_category": "food and beverage equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/food-and-beverage-equipment/cookers-and-cookware",
+    "name": "cookers and cookware",
+    "primary_category": "food and beverage equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/food-and-beverage-equipment/food-preparation",
+    "name": "food preparation",
+    "primary_category": "food and beverage equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/food-and-beverage-equipment/food-warmers-and-holding-cabinets",
+    "name": "food warmers and holding cabinets",
+    "primary_category": "food and beverage equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/food-and-beverage-equipment/furniture",
+    "name": "furniture",
+    "primary_category": "food and beverage equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/food-and-beverage-equipment/kitchen-equipment",
+    "name": "kitchen equipment",
+    "primary_category": "food and beverage equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/food-and-beverage-equipment/mixers-and-blenders",
+    "name": "mixers and blenders",
+    "primary_category": "food and beverage equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/food-and-beverage-equipment/processing",
+    "name": "processing",
+    "primary_category": "food and beverage equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/food-and-beverage-equipment/refrigeration",
+    "name": "refrigeration",
+    "primary_category": "food and beverage equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/food-and-beverage-equipment/restaurant-and-bar-equipment",
+    "name": "restaurant and bar equipment",
+    "primary_category": "food and beverage equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/food-and-beverage-equipment/tanks-and-vessels",
+    "name": "tanks and vessels",
+    "primary_category": "food and beverage equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/food-and-beverage-equipment/warewashing",
+    "name": "warewashing",
+    "primary_category": "food and beverage equipment"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/industrial/electrical-supplies",
+    "name": "electrical supplies",
+    "primary_category": "industrial"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/industrial/forklifts",
+    "name": "forklifts",
+    "primary_category": "industrial"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/industrial/handling-and-packaging",
+    "name": "handling and packaging",
+    "primary_category": "industrial"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/industrial/other-industrial-supplies-and-equipment",
+    "name": "other industrial supplies and equipment",
+    "primary_category": "industrial"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/industrial/pipes-and-fittings",
+    "name": "pipes and fittings",
+    "primary_category": "industrial"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/industrial/scissor-lifts",
+    "name": "scissor lifts",
+    "primary_category": "industrial"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/audio-and-musical-equipment",
+    "name": "audio and musical equipment",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/dishwashers",
+    "name": "dishwashers",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/fridges-and-freezers",
+    "name": "fridges and freezers",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/gaming-and-consoles",
+    "name": "gaming and consoles",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/it-accessories",
+    "name": "it accessories",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/it-networking-and-infrastructure",
+    "name": "it networking and infrastructure",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/kitchen-appliances",
+    "name": "kitchen appliances",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/laptops-and-computers",
+    "name": "laptops and computers",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/monitors",
+    "name": "monitors",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/ovens-and-cookers",
+    "name": "ovens and cookers",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/phones",
+    "name": "phones",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/photographic",
+    "name": "photographic",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/power-tools",
+    "name": "power tools",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/printers-and-copiers",
+    "name": "printers and copiers",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/small-appliances",
+    "name": "small appliances",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/tablets",
+    "name": "tablets",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/televisions",
+    "name": "televisions",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/tumble-dryers",
+    "name": "tumble dryers",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/it-and-electricals/washing-machines",
+    "name": "washing machines",
+    "primary_category": "it and electricals"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/metalworking/edm-electrical-discharge-machining",
+    "name": "edm electrical discharge machining",
+    "primary_category": "metalworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/metalworking/machine-tools-and-tools",
+    "name": "machine tools and tools",
+    "primary_category": "metalworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/metalworking/machines",
+    "name": "machines",
+    "primary_category": "metalworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/metalworking/measuring-and-testing-equipment",
+    "name": "measuring and testing equipment",
+    "primary_category": "metalworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/metalworking/presses",
+    "name": "presses",
+    "primary_category": "metalworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/metalworking/saws",
+    "name": "saws",
+    "primary_category": "metalworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/metalworking/sheet-metal-processing",
+    "name": "sheet metal processing",
+    "primary_category": "metalworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/metalworking/surface-treatment-machinery",
+    "name": "surface treatment machinery",
+    "primary_category": "metalworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/metalworking/welders",
+    "name": "welders",
+    "primary_category": "metalworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/other-industries/general-collective",
+    "name": "general collective",
+    "primary_category": "other industries"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/other-industries/medical-equipment",
+    "name": "medical equipment",
+    "primary_category": "other industries"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/other-industries/printing-equipment",
+    "name": "printing equipment",
+    "primary_category": "other industries",
+    "title": "Printing Equipment For Sale"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/other-industries/recycling-equipment",
+    "name": "recycling equipment",
+    "primary_category": "other industries"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/backhoes",
+    "name": "backhoes",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/boom-lifts",
+    "name": "boom lifts",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/bowsers-and-tanks",
+    "name": "bowsers and tanks",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/compressors",
+    "name": "compressors",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/cranes",
+    "name": "cranes",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/dozers",
+    "name": "dozers",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/dumpers",
+    "name": "dumpers",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/excavators",
+    "name": "excavators",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/generators",
+    "name": "generators",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/loaders",
+    "name": "loaders",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/portable-buildings",
+    "name": "portable buildings",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/rollers",
+    "name": "rollers",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/small-plant-and-tools",
+    "name": "small plant and tools",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/telehandlers",
+    "name": "telehandlers",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/plant-and-machinery/tower-lights",
+    "name": "tower lights",
+    "primary_category": "plant and machinery"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/woodworking/cnc-woodworking-machinery",
+    "name": "cnc woodworking machinery",
+    "primary_category": "woodworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/woodworking/drilling-and-doweling-machines",
+    "name": "drilling and doweling machines",
+    "primary_category": "woodworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/woodworking/milling-morticing-and-turning",
+    "name": "milling morticing and turning",
+    "primary_category": "woodworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/woodworking/panel-and-edge-processing-machines",
+    "name": "panel and edge processing machines",
+    "primary_category": "woodworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/woodworking/planing",
+    "name": "planing",
+    "primary_category": "woodworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/woodworking/presses",
+    "name": "presses",
+    "primary_category": "woodworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/woodworking/saws",
+    "name": "saws",
+    "primary_category": "woodworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/woodworking/supplies",
+    "name": "supplies",
+    "primary_category": "woodworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/woodworking/surface-treatment",
+    "name": "surface treatment",
+    "primary_category": "woodworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/woodworking/tools",
+    "name": "tools",
+    "primary_category": "woodworking"
+  },
+  {
+    "url": "https://www.bidspotter.co.uk/en-gb/for-sale/woodworking/veneer-processing",
+    "name": "veneer processing",
+    "primary_category": "woodworking"
+  }
+]

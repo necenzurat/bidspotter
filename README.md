@@ -102,4 +102,6 @@ Requests are sequential, with a default two-second minimum interval. Transient f
 
 Tests cover sitemap traversal, duplicate/recommended lot exclusion, pagination, full descriptions, missing prices, interrupted-run limits, category associations, exports, and retrying failed pages.
 
-Live sample verification on 6 November 2026: the child sitemap contained 118 category URLs. Two category pages yielded 120 lot URLs, and three full lot records were saved successfully. Generated exports and cached pages are not tracked in Git; run the sample command above to create them locally.
+Live sample verification on 6 November 2026: the child sitemap contained 118 category URLs. Two category pages yielded 120 lot URLs, and three full lot records were saved successfully.
+
+The repository includes the CSV/JSON exports, cached HTML, and resumable SQLite database in `data-sample/`, plus the original scrape results and retrieved Firecrawl documentation in `.firecrawl/`. The sample is a partial crawl with pending work. Rerun the sample command to continue it, or choose a new output directory for a fresh snapshot. Local Python environments, bytecode, browser profiles, credentials, and the generated code-review index are excluded.

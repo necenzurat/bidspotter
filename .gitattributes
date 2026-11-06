@@ -1,0 +1,3 @@
+/.firecrawl/** -text -whitespace linguist-generated=true
+/data-sample/** -text -whitespace linguist-generated=true
+*.sqlite3 binary
